@@ -1,1 +1,2 @@
 # week3_generatePassword
+Modify html file to include checkboxes so the user can select the criteria for the password. Update Javascript code and create functions so that when the bexes are checked annd un checked the password will generate accordingly.
